@@ -7,6 +7,7 @@ Click this button and it will help you create a new repo, create a new Netlify p
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/angular-quickstart)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/340fe799-888f-4a5a-80a6-53eb99995a84/deploy-status)](https://app.netlify.com/sites/angular-quick-start-aziz/deploys)
 ## Table of Contents:
 
 - [Setup](#setup)
